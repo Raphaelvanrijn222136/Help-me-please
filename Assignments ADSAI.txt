@@ -1,2 +1,24 @@
 Assignments ADSAI
+Learning objectives: Defining: Artificial intelligence, weak AI, and strong AI
+Provide examples of IRL and/or Scifi
+Describe the chinese room experiment and it's objective
+Match the philosophy of AI terms to the corresponding philosophy of AI matrix quadrants
+Explain version control and it's usefullness
+
+We will come back to these objectives when we get to the subject
+
+2.1 What is artificial intelligence?
+2.1b How would you define ‘artificial intelligence'?
+
+"Artificial intelligence is a computers ability to learn and adapt by block learning and smart algorithms, often enforced by constant failure and adaptment."
+
+2.1c Give three examples of AI applications. You can choose real-life examples, but also examples from popular culture (e.g., movies, books, video games etc.)
+
+"1. You're walking trough the Efteling and want to know how long the line is? Open up the app and it will not only calculate the time it takes to walk there, but also how long the line is. 2. You open your phone and say: "Hi Siri". Your phone now reconizes your voice and automaticly opens Siri. 3. You take a foto and when the picture comes out, you see that the google lens has already defined the type of bird that you just took a photo off.
+
+2.2a Read the first two sub-chapters of the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2021) (p.19-35).
+
+2.2b Define the following terms: ‘weak AI', and ‘strong AI'.
+
+"
 
