@@ -26,4 +26,4 @@ We will come back to these objectives when we get to the subject
 
 What is the ‘Chinese room experiment'? Describe its procedure.
 
-"
+"The Chinese Room experiment desribes the following situation
