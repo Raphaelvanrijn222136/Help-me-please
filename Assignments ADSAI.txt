@@ -27,4 +27,23 @@ We will come back to these objectives when we get to the subject
 What is the ‘Chinese room experiment'? Describe its procedure.
 
 "The Chinese Room experiment desribes the following situation: If a person that doesn't understand a language get's passed a notebook with phrases and vocab of the unknown language, and conducts a conversation trough notes out of this notebook. Is it still learning? Or is it just bringing up preknown knowledge?"
-"The Chinese Room experiment shows 
+"The Chinese Room experiment shows that the Turing test isn't the definitive way to define strong AI. Since machines can also use this "notebook" of pre-existing knowledge, it becomes less of a independent learning and adapting, and more of a "find the right 2 things to connect."
+
+2.2e What is the ‘Chinese room experiment' supposed to show? Select the correct statement, and elaborate on your choice:
+
+"Like I said above, it's definitly answer B: Understanding involves more than the ability to formally reproduce appropriate outputs."
+
+2.2f Connect the Post It notes (Fig 2.) to the relevant quadrant in the philosophy matrix (Fig 3.). For example, A = 1, 2, and B = 3, 4, 5 etc. Elaborate on your choices.
+
+1 = A "Weak AI is a program that can handle multiple different tasks bit itself, but isn't able to solve more complex once, hints is takes rational thoughts that are needed and provided in order to solve the problem.
+2 = C "Strong AI as defined above can be described as:" "a machine with a similiar intelligence to that of a human" "This requires Human Thought."
+3 = B "Rational agents are very close to us humans in the sense that they can solve problems by considering all the options and choosing the best one."
+4 = B 
+5 = B 
+6 = D 
+7 = C 
+8 = A 
+9 = A 
+
+
+
