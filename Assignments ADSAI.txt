@@ -26,4 +26,5 @@ We will come back to these objectives when we get to the subject
 
 What is the ‘Chinese room experiment'? Describe its procedure.
 
-"The Chinese Room experiment desribes the following situation
+"The Chinese Room experiment desribes the following situation: If a person that doesn't understand a language get's passed a notebook with phrases and vocab of the unknown language, and conducts a conversation trough notes out of this notebook. Is it still learning? Or is it just bringing up preknown knowledge?"
+"The Chinese Room experiment shows 
