@@ -20,5 +20,10 @@ We will come back to these objectives when we get to the subject
 
 2.2b Define the following terms: ‘weak AI', and ‘strong AI'.
 
-"
+"Weak AI (otherwise know as narrow AI) can be use to complete tasks of limited complexity. Narrow AI focusses on a specific task and in that varies from weak AI, despite the terms often being used intertwined." "Some examples of narrow AI include: Siri, Google assistent, and Cortana." "These are however not examples of weak AI, since they do not display genuine intelligence or any form of concious thought."
 
+"Strong AI is ofther defined as a lot of different things, among these things are: a machine to adapt to any and all problems; instead of 1 specific one, a machine with a similiar intelligence to that of a human, a machine with a level of intelligence that surpasses that of a human by a mile, or an artificial conciousness that has sentience and/or a mind." "If a machine passes the Turing test this constitutes that the machine has one or more of the above."
+
+What is the ‘Chinese room experiment'? Describe its procedure.
+
+"
