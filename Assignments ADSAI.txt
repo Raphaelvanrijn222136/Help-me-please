@@ -37,8 +37,8 @@ What is the ‘Chinese room experiment'? Describe its procedure.
 
 1 = A "Weak AI is a program that can handle multiple different tasks bit itself, but isn't able to solve more complex once, hints is takes rational thoughts that are needed and provided in order to solve the problem.
 2 = C "Strong AI as defined above can be described as:" "a machine with a similiar intelligence to that of a human" "This requires Human Thought."
-3 = B "Rational agents are very close to us humans in the sense that they can solve problems by considering all the options and choosing the best one."
-4 = B 
+3 = B "Cognitive science
+4 = B "Rational agents are very close to us humans in the sense that they can solve problems by considering all the options and choosing the best one."
 5 = B 
 6 = D 
 7 = C 
