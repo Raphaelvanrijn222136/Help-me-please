@@ -39,15 +39,15 @@ What is the ‘Chinese room experiment'? Describe its procedure.
 
 2.2f Connect the Post It notes (Fig 2.) to the relevant quadrant in the philosophy matrix (Fig 3.). For example, A = 1, 2, and B = 3, 4, 5 etc. Elaborate on your choices.
 
-1 = A "Weak AI is a program that can handle multiple different tasks bit itself, but isn't able to solve more complex once, hints is takes rational thoughts that are needed and provided in order to solve the problem.
+1 = B "Weak AI is a program that can handle multiple different tasks bit itself, but isn't able to solve more complex once, hints is takes rational thoughts that are needed and provided in order to solve the problem.
 2 = C "Strong AI as defined above can be described as:" "a machine with a similiar intelligence to that of a human" "This requires Human Thought."
-3 = B "Cognitive science is a study about how the human brain process cognitive decisions and have the ability to reason."
+3 = D "Cognitive science is a study about how the human brain process cognitive decisions and have the ability to reason."
 4 = B "Rational agents are very close to us humans in the sense that they can solve problems by considering all the options and choosing the best one."
-5 = D "Swarm behavior means that you follow the rest of the swarm, this means that it takes very little thought and it's just programmed behavior"
-6 = D "Neuroscience it the studie of the human behavior. This means that it's mainly about the human reasoning and why we do things."
-7 = C "Psychology is the studie of the thought. It focusses on how human thoughts work and why people make the decisions that they do."
+5 = B "Swarm behavior means that you follow the rest of the swarm, this means that it takes very little thought and it's just programmed behavior"
+6 = C "Neuroscience it the studie of the human behavior. This means that it's mainly about the human reasoning and why we do things."
+7 = D "Psychology is the studie of the thought. It focusses on how human thoughts work and why people make the decisions that they do."
 8 = A "The Chinese Room Experiment questions if recalling stored information can be considered a form of intelligence. It challenges if human thought can be considered rational reasoning. Which only humans/agents can do so far."
-9 = A "The Turing test is a experiment designed to test if a machine can learn and adapt, or in other words; perform rational thought."
+9 = D "The Turing test is a experiment designed to test if a machine can learn and adapt, or in other words; perform rational thought."
 
 2.2g After completing the readings and exercises of this section, would you provide the same answer to exercise 2.1b? Explain your answer.
 
