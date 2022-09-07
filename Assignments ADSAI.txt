@@ -76,5 +76,10 @@ Implement version control using ‘GitHub Desktop,' a Graphical User Interface f
 "Turing 'Imitation game' is as the name implies a game to replicate another. During WWII, Turing created a machine that was able to indepentently solve the German militairy encryption that they used to send messages.
 
 
+Assignment 4
+
+4.1a Find out what a typical work day looks like for a data scientist (e.g., daily tasks, and related skills, etc.).
+
+"Data scientist daily task involve a lot of different tasks. From data scaping to collecting and transforming data. They often work together with the Data Arcitects and ML engineers in order to provide a proper and usable interface and inner workings"
 
 
