@@ -1,4 +1,8 @@
 Assignments ADSAI
+
+Assignment 1 day 1
+
+
 Learning objectives: Defining: Artificial intelligence, weak AI, and strong AI
 Provide examples of IRL and/or Scifi
 Describe the chinese room experiment and it's objective
@@ -49,5 +53,17 @@ What is the ‘Chinese room experiment'? Describe its procedure.
 
 "I personally think that I still stand behind some of what I said, but the main difference being that I wouldn't base my answer on the results of the Turing test any more. This is mainly because the chinese room experiment brings up some really interesting questions about what intelligence is and what it means to be intelligent."
 
+
+Assignment 2 day 2
+
+Learning objectives: 
+
+List, and describe key moments in the history of AI
+Explain the procedure, and main objective of Turing's ‘Imitation Game'
+Implement version control using ‘GitHub Desktop,' a Graphical User Interface for GitHub
+
+1.1c Find, and describe one ‘milestone' in the history of AI. Be creative, so no ‘milestones' by Alan Turing! No worries, we are going to extensively discuss his accomplishments in DataLab 1, Week 2 
+
+"In the 1940s, Norbert Wiener, the father of Cybernetics, designed the first self-regulating and self-correcting systems, which would lead to the integration of Automatic Pilot in aircraft."
 
 
