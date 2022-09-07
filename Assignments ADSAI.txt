@@ -64,6 +64,17 @@ Implement version control using ‘GitHub Desktop,' a Graphical User Interface f
 
 1.1c Find, and describe one ‘milestone' in the history of AI. Be creative, so no ‘milestones' by Alan Turing! No worries, we are going to extensively discuss his accomplishments in DataLab 1, Week 2 
 
-"In the 1940s, Norbert Wiener, the father of Cybernetics, designed the first self-regulating and self-correcting systems, which would lead to the integration of Automatic Pilot in aircraft."
+"In the 1940s, Norbert Wiener, the father of Cybernetics, designed the first self-regulating and self-correcting systems, which would lead to the integration of Automatic Pilot in aircraft." 
+
+1.2a Besides the Turing Test, Alan Turing is renowned for his work on:
+1. He wore a gas mask while riding his bike to combat his allergies.
+2. Instead of fixing his bike’s faulty chain, he learned exactly when to dismount to secure it in place before it slipped off
+3. Alan Turing rode his bike 62 miles to get to the first day of school.
+
+1.2d Describe the procedure, and main objective of Turing's ‘Imitation Game'. Write your answer down
+
+"Turing 'Imitation game' is as the name implies a game to replicate another. During WWII, Turing created a machine that was able to indepentently solve the German militairy encryption that they used to send messages.
+
+
 
 
